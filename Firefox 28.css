@@ -88,7 +88,6 @@
             text-shadow:rgba(0,0,0,1) 0 0 1px!important;
             -moz-transition:color .2s ease-in-out;
             background-image:linear-gradient(rgba(47, 47, 47, 0.3), rgba(47, 47, 47, 0.3))!important;
-            
         }
         #urlbar:hover {
             color:#fff!important;
@@ -240,9 +239,6 @@
         #searchbar {
             border-radius:5px!important;
             background-image:linear-gradient(rgba(47, 47, 47, 0.8), rgba(47, 47, 47, 0.8))!important;
-        }
-        #titlebar-buttonbox {
-            
         }
 
         /*Removes Background-Color From Chrome*/
