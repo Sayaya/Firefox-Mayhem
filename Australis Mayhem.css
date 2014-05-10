@@ -126,26 +126,26 @@
     opacity:1!important;
 }
 #TabsToolbar {
-    margin:0 0 -1px 0px!important;
+    margin:0 0px -1px 0px!important;
     clip-path:none!important;
 }
 #TabsToolbar:not(:-moz-lwtheme)::after, #TabsToolbar:not(:-moz-lwtheme)::before {
-    display: none !important;
+    display:none!important;
 }
 .tab-background-start, .tab-background-end {
-    visibility: hidden !important;
-    box-shadow: none !important;
+    visibility:hidden!important;
+    box-shadow:none!important;
 }
 .tab-background-middle {
-    background: none !important;
+    background:none!important;
 }
 .tab-background,
 .tab-background-middle,
 .tabbrowser-tab:after,
 .tabbrowser-tab:before,
 .tabbrowser-tab:after {
-    box-shadow: none !important;
-    background: none !important;
+    box-shadow:none!important;
+    background:none!important;
 }
 
 /*Main Window*/
@@ -173,6 +173,6 @@
     max-width:140px!important;
 }
 #main-window #tabbrowser-tabs tab[pinned] {
-    max-width:24px!important;
-    min-width:24px!important;          
+    max-width:30px!important;
+    min-width:25px!important;
 }
