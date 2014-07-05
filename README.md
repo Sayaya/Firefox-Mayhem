@@ -11,6 +11,6 @@ Issues
 
 To-do
 -----------
-* Small tabs version
+<em>* Small tabs version</em>
 * Phone version?
 * Reduce dependencies wherever possible
