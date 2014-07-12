@@ -1,8 +1,8 @@
 Firefox-css
 ===========
-A css script for the Stylish Firefox addon. It takes elements from the Minimalistic Mayhem Appchan-x theme to have a slimmed look.
+A css script for the Stylish Firefox addon. It takes elements from the Minimalistic Mayhem [Appchan-x](https://github.com/zixaphir/appchan-x) theme.
 
-The Australis version is currently dependent on the Classic Theme Restorer and Hide Caption Titlebar Plus addons to function as intended.
+The version for Firefox 29+ is currently dependent on the Classic Theme Restorer and Hide Caption Titlebar Plus addons to function as intended.
 
 Issues
 -----------
